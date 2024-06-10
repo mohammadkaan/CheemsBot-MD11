@@ -19,9 +19,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
+global.botname = 'PLACK-PANTHER-MD//ur bot name
 global.ownernumber = '94768967587' //ur owner number
-global.ownername = 'mhd Asri' //ur owner name
+global.ownername = 'Mhd Asri' //ur owner name
 global.websitex = "https://youtube.com/@arivukkadal579"
 global.wagc = "https://chat.whatsapp.com/Fd9HOXWnwYh4LKKT0NgTSM"
 global.themeemoji = '🪀'
@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Asliguru"
 global.author = "Asri mohammad\n\n+94768967587"
 global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '$'
 global.premium = ["94768967587"] // Premium User
 global.hituet = 0
 
